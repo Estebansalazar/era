@@ -400,7 +400,7 @@ p {
 
 .wellcome_area {
     background-image: url(img/bg-img/welcome-bg.png);
-    height: 900px;
+    height: 830px;
     position: relative;
     z-index: 1;
     background-position: bottom center;
@@ -421,7 +421,7 @@ p {
 .welcome-thumb {
     width: 45%;
     position: absolute;
-    bottom: 250px;
+    bottom: 50px;
     right: 85px;
     z-index: 9;
     width: 40%;
